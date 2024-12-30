@@ -1,5 +1,10 @@
 # Changelog
 
+
+
+
+
+
 ## Release (2024-11-08)
 
 ember-command 2.0.7 (patch)

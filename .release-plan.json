@@ -1,17 +1,8 @@
 {
   "solution": {
     "ember-command": {
-      "impact": "patch",
-      "oldVersion": "2.0.6",
-      "newVersion": "2.0.7",
-      "constraints": [
-        {
-          "impact": "patch",
-          "reason": "Appears in changelog section :bug: Bug Fix"
-        }
-      ],
-      "pkgJSONPath": "./ember-command/package.json"
+      "oldVersion": "2.0.7"
     }
   },
-  "description": "## Release (2024-11-08)\n\nember-command 2.0.7 (patch)\n\n#### :bug: Bug Fix\n* `ember-command`, `test-app`\n  * [#97](https://github.com/gossi/ember-command/pull/97) Fix another promise bug ([@gossi](https://github.com/gossi))\n\n#### Committers: 1\n- Thomas Gossmann ([@gossi](https://github.com/gossi))\n"
+  "description": "\n\n\n\n"
 }
