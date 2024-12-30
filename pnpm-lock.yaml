@@ -218,11 +218,11 @@ importers:
         specifier: ^3.0.8
         version: 3.0.8
       '@types/qunit':
-        specifier: ^2.19.6
-        version: 2.19.6
+        specifier: ^2.19.12
+        version: 2.19.12
       '@types/sinon':
-        specifier: ^10.0.15
-        version: 10.0.15
+        specifier: ^10.0.20
+        version: 10.0.20
       '@typescript-eslint/eslint-plugin':
         specifier: ^8.18.2
         version: 8.18.2(@typescript-eslint/parser@8.18.2(eslint@8.57.1)(typescript@5.7.2))(eslint@8.57.1)(typescript@5.7.2)
@@ -2053,8 +2053,8 @@ packages:
   '@types/qs@6.9.7':
     resolution: {integrity: sha512-FGa1F62FT09qcrueBA6qYTrJPVDzah9a+493+o2PCXsesWHIn27G98TsSMs3WPNbZIEj4+VJf6saSFpvD+3Zsw==}
 
-  '@types/qunit@2.19.6':
-    resolution: {integrity: sha512-bz9STa6EHurtpSfn5cNiScBladlw43bM+7luQA985Kd9YlF4dZaLmKt3c5/oSyN1AWAl50YBpqTq0BxCP64nGg==}
+  '@types/qunit@2.19.12':
+    resolution: {integrity: sha512-II+C1wgzUia0g+tGAH+PBb4XiTm8/C/i6sN23r21NNskBYOYrv+qnW0tFQ/IxZzKVwrK4CTglf8YO3poJUclQA==}
 
   '@types/range-parser@1.2.4':
     resolution: {integrity: sha512-EEhsLsD6UsDM1yFhAvy0Cjr6VwmpMWqFBCb9w07wVugF7w9nfajxLuVmngTIpgS6svCnm6Vaw+MZhoDCKnOfsw==}
@@ -2074,8 +2074,8 @@ packages:
   '@types/serve-static@1.15.1':
     resolution: {integrity: sha512-NUo5XNiAdULrJENtJXZZ3fHtfMolzZwczzBbnAeBbqBwG+LaG6YaJtuwzwGSQZ2wsCrxjEhNNjAkKigy3n8teQ==}
 
-  '@types/sinon@10.0.15':
-    resolution: {integrity: sha512-3lrFNQG0Kr2LDzvjyjB6AMJk4ge+8iYhQfdnSwIwlG88FUOV43kPcQqDZkDa/h3WSZy6i8Fr0BSjfQtB1B3xuQ==}
+  '@types/sinon@10.0.20':
+    resolution: {integrity: sha512-2APKKruFNCAZgx3daAyACGzWuJ028VVCUDk6o2rw/Z4PXT0ogwdV4KUegW0MwVs0Zu59auPXbbuBJHF12Sx1Eg==}
 
   '@types/sinon@17.0.3':
     resolution: {integrity: sha512-j3uovdn8ewky9kRBG19bOwaZbexJu/XjtkHyjvUgt4xfPFz18dcORIMqnYh66Fx3Powhcr85NT5+er3+oViapw==}
@@ -10370,7 +10370,7 @@ snapshots:
 
   '@types/qs@6.9.7': {}
 
-  '@types/qunit@2.19.6': {}
+  '@types/qunit@2.19.12': {}
 
   '@types/range-parser@1.2.4': {}
 
@@ -10392,7 +10392,7 @@ snapshots:
       '@types/mime': 3.0.1
       '@types/node': 18.14.2
 
-  '@types/sinon@10.0.15':
+  '@types/sinon@10.0.20':
     dependencies:
       '@types/sinonjs__fake-timers': 8.1.2
 
