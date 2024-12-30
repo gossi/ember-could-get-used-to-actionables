@@ -109,7 +109,7 @@
     "prettier": "^3.4.2",
     "rollup": "^4.29.1",
     "rollup-plugin-glimmer-template-tag": "^0.4.1",
-    "typedoc": "^0.25.7",
+    "typedoc": "^0.27.6",
     "typedoc-plugin-markdown": "^4.0.0-next.43",
     "typedoc-vitepress-theme": "^1.1.1",
     "typescript": "^5.7.2",
