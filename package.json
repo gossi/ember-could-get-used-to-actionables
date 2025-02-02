@@ -26,7 +26,7 @@
     "release-plan": "^0.11.0",
     "vitepress": "^1.5.0"
   },
-  "packageManager": "pnpm@9.12.2",
+  "packageManager": "pnpm@9.15.5",
   "engines": {
     "node": ">= 20.*"
   }
